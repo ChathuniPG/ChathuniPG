@@ -8,13 +8,13 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Software+Engineer;AI+Systems+Integration;Backend+Engineering;Building+secure%2C+high-performance+systems">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=A78BFA&center=true&vCenter=true&width=820&lines=Software+Engineer;AI+Systems+Integration;Backend+Engineering;Building+secure%2C+high-performance+systems">
 
 <br><br>
 
-<p style="max-width:600px; color:#94A3B8; font-size:17px;">
-I enjoy building secure, high-performance systems and bridging the gap between <br> 
-  enterprise architecture and modern AI capabilities
+<p style="max-width:640px; color:#FFFFFF; font-size:20px; line-height:1.75; letter-spacing:0.2px;">
+I enjoy building secure, high-performance systems -<br>
+bridging the gap between enterprise architecture and modern AI capabilities.
 </p>
 
 <br>
